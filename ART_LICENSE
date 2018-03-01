@@ -1,0 +1,105 @@
+Art images in the add-on's "images" directory are original work under
+the CC BY-SA v4 license. The following images are not covered by this, for
+they are derivative work of GPL assets:
+
+attacks/anti-magic.png
+attacks/beam-eye.png
+attacks/beam-red.png
+attacks/black-mage-missile.png
+attacks/bow-elven-fire.png
+attacks/bow-elven-holy.png
+attacks/cannon.png
+attacks/charge-golem.png
+attacks/claws-lizard.png
+attacks/claws-lizard-poisoned.png
+attacks/curse-goblin.png
+attacks/cyclops-skull.png
+attacks/cyclops-skull2.png
+attacks/darkball.png
+attacks/dagger-magic.png
+attacks/dagger-tharis.png
+attacks/dagger-thrown-cursed-human.png
+attacks/damned-flame.png
+attacks/dark-spark.png
+attacks/devour.png
+attacks/entrapment-spell.png
+attacks/entrapment-spell-dark.png
+attacks/faerie-fire-yellow.png
+attacks/fireball-blue.png
+attacks/firewave.png
+attacks/fist-um.png
+attacks/fist-magic-fire.png
+attacks/fist-magic-ice.png
+attacks/flames.png
+attacks/gaze-horhami.png
+attacks/hammer-neutral.png
+attacks/hammer-summons.png
+attacks/head-bonebeast.png
+attacks/head-hydra.png
+attacks/head-hydra2.png
+attacks/hurricane.png
+attacks/katana.png
+attacks/icicles.png
+attacks/immobilization.png
+attacks/magic-barrage.png
+attacks/meteorshower.png
+attacks/missile-kharos.png
+attacks/missile-sorcerer.png
+attacks/missile-toad.png
+attacks/orb-lightning.png
+attacks/paw-toad.png
+attacks/pike-saurian.png
+attacks/reality-warp.png
+attacks/rune-ice.png
+attacks/runelord-hammer.png
+attacks/runemaster-hammer.png
+attacks/runic-hammer.png
+attacks/scimitar2.png
+attacks/scimitar-neutral.png
+attacks/scream.png
+attacks/sparks.png
+attacks/staff-atokpi.png
+attacks/staff-atokpi2.png
+attacks/staff-atokpi3.png
+attacks/staff-darkwizard.png
+attacks/sword+axe.png
+attacks/sword+battleaxe.png
+attacks/sword+fanatic.png
+attacks/tail-bonebeast.png
+attacks/tail-chaoswyvern.png
+attacks/touch-efreeti.png
+attacks/trample-horse.png
+attacks/witch-fire.png
+
+projectiles/arrow-double-n.png
+projectiles/arrow-double-ne.png
+projectiles/missile-holy-n.png
+projectiles/missile-holy-ne.png
+projectiles/missile-ice-n.png
+projectiles/missile-ice-ne.png
+
+units/barbarians-trolls/fireshaman.png (and associated animation frames)
+units/barbarians-trolls/shaman.png (and associated animation frames)
+units/barbarians-trolls/trollwarbanner.png (and associated animation frames)
+units/barbarians-trolls/trollwarlock.png (and associated animation frames)
+units/darkblood-saurians/crossbowman.png (and associated animation frames)
+units/darkblood-saurians/shooter.png (and associated animation frames)
+units/kharos-light/cleric.png (and associated animation frames)
+units/kharos-light/priestoflight.png (and associated animation frames)
+units/kharos-light/prophetoflight.png (and associated animation frames)
+units/kharos-light/warbanner.png (and associated animation frames)
+units/kharos-light/wabannerkharos.png (and associated animation frames)
+units/kharos-sun/cavalryarcher.png (and associated animation frames)
+units/kharos-sun/cavalryarcherII.png (and associated animation frames)
+units/kharos-sun/heavycavalryarcher.png (and associated animation frames)
+units/kharos-sun/shielder.png (and associated animation frames)
+units/runemasters-dwarves/radept.png (and associated animation frames)
+units/runemasters-dwarves/rheavywarrior.png (and associated animation frames)
+units/runemasters-dwarves/rparachutist.png (and associated animation frames)
+units/runemasters-dwarves/rrunemaster.png (and associated animation frames)
+units/runemasters-dwarves/runewarrior.png (and associated animation frames)
+units/runemasters-dwarves/warrior.png (and associated animation frames)
+units/summoners-humans/camelrider.png (and associated animation frames)
+units/tharis-magi/coldmatriarch.png (and associated animation frames)
+units/tharis-magi/shadow-witch.png (and associated animation frames)
+units/tharis-magi/witch.png (and associated animation frames)

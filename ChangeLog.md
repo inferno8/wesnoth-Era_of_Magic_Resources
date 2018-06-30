@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.1.1
+   * added the cyclops necromancer image
+   * uploaded scream projectile images
+   * renamed racial icons to match new names
+
 ## Version 1.1
    * improved many portraits
    * added the Chosen of Forest portrait

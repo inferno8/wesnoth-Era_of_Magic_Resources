@@ -1,6 +1,10 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2
+   * added lvl1 Destroyers portaits
+   * fixed some TC issues
+
 ## Version 1.1.1
    * added the cyclops necromancer image
    * uploaded scream projectile images

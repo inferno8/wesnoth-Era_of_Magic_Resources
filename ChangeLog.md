@@ -1,6 +1,10 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2.1
+   * added shadowless variants of flying units
+   * added the secret damage type icon
+
 ## Version 1.2
    * added lvl1 Destroyers portaits
    * fixed some TC issues

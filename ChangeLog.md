@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2.2
+   * improved Dharma'rhami and Ho'rhami portraits
+
 ## Version 1.2.1
    * added shadowless variants of flying units
    * added the secret damage type icon

@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2.3
+   * improved images of factions
+
 ## Version 1.2.2
    * improved Dharma'rhami and Ho'rhami portraits
 

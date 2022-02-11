@@ -1,6 +1,10 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2.4
+   * added an icon for the kamikaze range
+   * removed an unused unit image
+
 ## Version 1.2.3
    * improved images of factions
 

@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.2.5
+   * added a missing zombie variant of Silver Warrior
+   
 ## Version 1.2.4
    * added an icon for the kamikaze range
    * removed an unused unit image

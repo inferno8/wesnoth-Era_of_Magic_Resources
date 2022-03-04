@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.3
+   * added unit images for Technologist, Technocrat, Cadet, Soldier, Dwarvish Mobile Turret, Mobile Defensive Platform
+   * added images for the shockwave fx
+   * added plasma.png attack icon
+
 ## Version 1.2.5
    * added a missing zombie variant of Silver Warrior
    

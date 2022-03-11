@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.3.1
+   * added unit images for Harbinger and Doom Bringer
+
 ## Version 1.3
    * added unit images for Technologist, Technocrat, Cadet, Soldier, Dwarvish Mobile Turret, Mobile Defensive Platform
    * added images for the shockwave fx

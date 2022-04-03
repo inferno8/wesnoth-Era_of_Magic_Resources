@@ -1,6 +1,14 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.4
+   * added unit images for Atokpi Infantry, Atokpi Charger and Crimson Atokpi
+   * added 24fps animations for Doom Bringer
+   * added images for the shockwave fx
+   * added new attack icons (shockwave, impact ammo)
+   * improved the machine gun attack icon
+   * added new sound fx for MDP and Dwarvish Mobile Turret
+
 ## Version 1.3.1
    * added unit images for Harbinger and Doom Bringer
 

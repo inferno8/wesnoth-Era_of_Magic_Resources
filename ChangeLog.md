@@ -1,6 +1,13 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.5
+   * added unit images for Black Portal
+   * improved the look of Infernal Vortex
+   * added 'dark ball' attack icon (Destroyers variant)
+   * improved the 'dark ball' attack icon
+   * improved the gui icon for Infernal Vortex
+
 ## Version 1.4
    * added unit images for Atokpi Infantry, Atokpi Charger and Crimson Atokpi
    * added 24fps animations for Doom Bringer

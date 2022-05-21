@@ -1,6 +1,14 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.6
+   * added unit images for Battlecopter
+   * added unit images for Kharosian Javelineer
+   * added unit images for Kharosian Impaler
+   * added unit images for Recruitment Officer
+   * added unit images for Mirrorshield
+   * added attack icons for Battlecopter and Mirrorshield
+   
 ## Version 1.5
    * added unit images for Black Portal
    * improved the look of Infernal Vortex

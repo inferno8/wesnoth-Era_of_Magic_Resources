@@ -1,6 +1,15 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.7
+   * added unit images for Bladefury, Chainlady, Frontliner, Crimson Blade, Pain Mistress, Matriarch of Pain, Terramancer, Master of Earth, Architect, Kharosian Bulwark, Forest Spirit, Swamp Spirit
+   * improved Guru's landmass attack animation
+   * added zombie variations for Bladefury and Terramancer
+   * added the 'chain' attack icon
+   * added the 'fist-magic-earth' attack icon
+   * added the 'bleeding' status icon
+   * added the rock-medium.png projectile image
+
 ## Version 1.6
    * added unit images for Battlecopter
    * added unit images for Kharosian Javelineer

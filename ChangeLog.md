@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.7.1
+   * added unit images for Temple Guard
+   * added pike-saurian-sacred.png
+   * added pike-saurian-sacred-active.png
+
 ## Version 1.7
    * added unit images for Bladefury, Chainlady, Frontliner, Crimson Blade, Pain Mistress, Matriarch of Pain, Terramancer, Master of Earth, Architect, Kharosian Bulwark, Forest Spirit, Swamp Spirit
    * improved Guru's landmass attack animation

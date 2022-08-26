@@ -1,6 +1,12 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.8
+   * optimized PNGs
+   * added Golden Warrior portrait
+   * removed unused images
+   * fixed some TC issues
+
 ## Version 1.7.1
    * added unit images for Temple Guard
    * added pike-saurian-sacred.png

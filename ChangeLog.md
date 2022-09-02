@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.8.1
+   * added images for Goblin Wizard
+   * added images for Chaotic Observer
+   * added Sky Guardian portrait
+
 ## Version 1.8
    * optimized PNGs
    * added Golden Warrior portrait

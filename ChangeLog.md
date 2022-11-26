@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.9
+   * added images for Goblin Invader
+   * added images for Orcish Chieftain
+   * added images for Chronomancer
+
 ## Version 1.8.1
    * added images for Goblin Wizard
    * added images for Chaotic Observer

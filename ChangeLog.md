@@ -1,6 +1,10 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.9.1
+   * added images for Kharosian Cataphract
+   * added images for Kharosian Legionnaire
+
 ## Version 1.9
    * added images for Goblin Invader
    * added images for Orcish Chieftain

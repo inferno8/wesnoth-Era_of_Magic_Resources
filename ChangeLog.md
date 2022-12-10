@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 1.9.2
+   * improve Mirroshield's sprites and attack icons
+
 ## Version 1.9.1
    * added images for Kharosian Cataphract
    * added images for Kharosian Legionnaire

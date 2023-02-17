@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.0
+   * added 24fps standing animations to 88 units
+   * changed the look of Cyclops Warmonger
+   * minor sprite improvements and cleanup
+
 ## Version 1.9.2
    * improve Mirroshield's sprites and attack icons
 

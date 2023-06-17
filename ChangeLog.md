@@ -1,6 +1,16 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.1
+   * added images for Divine Executor and Trench Sweeper
+   * improved unit icons for Air God; Air Avatar, Fire Elemental and Fire God
+   * improved attack icons (burner, screwdriver, wrench)
+   * improved glow around Fire Avatar
+   * minor improvements to some sprites and halos
+   * removed some unused images
+   * removed duplicates
+   * added shotgun.ogg
+
 ## Version 2.0
    * added 24fps standing animations to 88 units
    * changed the look of Cyclops Warmonger

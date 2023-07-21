@@ -1,6 +1,11 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.2
+   * added images for Bone Splitter
+   * added 24fps standing animations for Destroyers
+   * added 24fps healing animations for Destroyers
+
 ## Version 2.1
    * added images for Divine Executor and Trench Sweeper
    * improved unit icons for Air God; Air Avatar, Fire Elemental and Fire God

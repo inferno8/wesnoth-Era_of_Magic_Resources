@@ -1,6 +1,18 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.3
+   * added 24fps standing animations for Summoners
+   * added 24fps healing animations for Abysmals
+   * added images for Savage Roc Rider
+   * added images for Orcish Brawler
+   * added images for Pain Sphere
+   * added lvl3 zombie salamanders' images
+   * updated lvl2 zombie salamanders' images
+   * added attacks/shockwave-red.png
+   * removed some unused images
+   * added a custom kamikaze range icon
+
 ## Version 2.2
    * added images for Bone Splitter
    * added 24fps standing animations for Destroyers

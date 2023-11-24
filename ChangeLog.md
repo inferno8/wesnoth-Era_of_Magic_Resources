@@ -1,6 +1,12 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.4
+   * added Corrupted Hydra/Hellish Hydra images
+   * added Mechanical Wyrm images
+   * added Roc Master images
+   * renamed rocmaster to roctamer (file names)
+
 ## Version 2.3
    * added 24fps standing animations for Summoners
    * added 24fps healing animations for Abysmals

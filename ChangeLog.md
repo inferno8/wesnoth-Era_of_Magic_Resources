@@ -1,6 +1,14 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.5
+   * added images for Titan Golem, Fire Priestess and Fire Templar
+   * added damaged golem assets
+   * added sword-not-flaming.png attack icon
+   * added pain-missile.png attack icon
+   * added pain-missile-big.png attack icon
+
+
 ## Version 2.4
    * added Corrupted Hydra/Hellish Hydra images
    * added Mechanical Wyrm images

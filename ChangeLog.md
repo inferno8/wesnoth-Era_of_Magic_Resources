@@ -1,6 +1,12 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.6
+   * added 24fps standing animations for Roc Rider, Roc Tamer and Roc Master
+   * added Cyclops Ritualist and Cyclops Lorekeeper images
+   * improved Trench Sweeper sprites
+   * added new attack icons and AMLA icons
+
 ## Version 2.5
    * added images for Titan Golem, Fire Priestess and Fire Templar
    * added damaged golem assets

@@ -10,26 +10,27 @@ attacks/bow-elven-fire.png
 attacks/bow-elven-holy.png
 attacks/cannon.png
 attacks/charge-golem.png
-attacks/claws-lizard.png
 attacks/claws-lizard-poisoned.png
+attacks/claws-lizard.png
+attacks/crystal-claws.png
 attacks/curse-goblin.png
 attacks/cyclops-skull.png
 attacks/cyclops-skull2.png
-attacks/darkball.png
 attacks/dagger-magic.png
 attacks/dagger-tharis.png
 attacks/dagger-thrown-cursed-human.png
 attacks/damned-flame.png
 attacks/dark-spark.png
+attacks/darkball.png
 attacks/devour.png
-attacks/entrapment-spell.png
 attacks/entrapment-spell-dark.png
+attacks/entrapment-spell.png
 attacks/faerie-fire-yellow.png
 attacks/fireball-blue.png
 attacks/firewave.png
-attacks/fist-um.png
 attacks/fist-magic-fire.png
 attacks/fist-magic-ice.png
+attacks/fist-um.png
 attacks/flames.png
 attacks/gaze-horhami.png
 attacks/hammer-neutral.png
@@ -38,9 +39,9 @@ attacks/head-bonebeast.png
 attacks/head-hydra.png
 attacks/head-hydra2.png
 attacks/hurricane.png
-attacks/katana.png
 attacks/icicles.png
 attacks/immobilization.png
+attacks/katana.png
 attacks/magic-barrage.png
 attacks/meteorshower.png
 attacks/missile-kharos.png
@@ -54,10 +55,11 @@ attacks/rune-ice.png
 attacks/runelord-hammer.png
 attacks/runemaster-hammer.png
 attacks/runic-hammer.png
-attacks/scimitar2.png
 attacks/scimitar-neutral.png
+attacks/scimitar2.png
 attacks/scream.png
 attacks/sparks.png
+attacks/spear-frozen.png
 attacks/staff-atokpi.png
 attacks/staff-atokpi2.png
 attacks/staff-atokpi3.png
@@ -65,6 +67,7 @@ attacks/staff-darkwizard.png
 attacks/sword+axe.png
 attacks/sword+battleaxe.png
 attacks/sword+fanatic.png
+attacks/sword-ad-charged.png
 attacks/tail-bonebeast.png
 attacks/tail-chaoswyvern.png
 attacks/touch-efreeti.png
@@ -72,6 +75,9 @@ attacks/trample-horse.png
 attacks/witch-fire.png
 
 icons/enchant-orange-3.png
+icons/leaf-acid-2.png
+icons/protect-red-1.png
+
 
 projectiles/arrow-double-n.png
 projectiles/arrow-double-ne.png

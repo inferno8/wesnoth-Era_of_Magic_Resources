@@ -1,6 +1,12 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 2.7
+   * switched to .webp format for portraits
+   * added images for Dimensional Gate 3 and Master Banisher
+   * renamed some unit sprites
+   * fixed some TC issues
+
 ## Version 2.6
    * added 24fps standing animations for Roc Rider, Roc Tamer and Roc Master
    * added Cyclops Ritualist and Cyclops Lorekeeper images

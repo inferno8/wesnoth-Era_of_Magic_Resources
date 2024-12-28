@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 3.1
+   * improved some unit portraits
+
 ## Version 3.0
    * switched to .webp format for portraits
    * added images for Dimensional Gate 3 and Master Banisher

@@ -1,6 +1,9 @@
 Era of Magic Resources - ChangeLog
 ----------------------------
 
+## Version 3.1.1
+   * sprite cleanup and palette optmization (Jungle Blowgunner)
+
 ## Version 3.1
    * improved some unit portraits
 
